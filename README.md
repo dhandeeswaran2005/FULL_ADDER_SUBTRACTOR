@@ -86,8 +86,8 @@ assign DIFF = a^b^c;
 assign BO = (a0&b) | (b&c) | (a0&c);
 endmodule
 
-Developed by: VARSHA A
-RegisterNumber: 212223220121
+Developed by: Dhandeeswaran
+RegisterNumber: 212223110009
 ~~~
 
 */
